@@ -12,10 +12,5 @@ Here I showcase projects that demonstrate my skills in data cleaning, analysis, 
 - Data Cleaning & EDA
 
 ## Projects
-1. Sales Performance Analysis
-2. Customer Churn Analysis
-3. HR Analytics Dashboard
-4. Netflix Content Analysis
-
-(Each project has its own folder and explanation.)
+1. Superstore Sales Analysis
 
