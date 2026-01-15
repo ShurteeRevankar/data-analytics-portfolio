@@ -12,5 +12,5 @@ Here I showcase projects that demonstrate my skills in data cleaning, analysis, 
 - Data Cleaning & EDA
 
 ## Projects
-1. Superstore Sales Analysis
+1. Superstore Sales Analysis (Tableau)
 
