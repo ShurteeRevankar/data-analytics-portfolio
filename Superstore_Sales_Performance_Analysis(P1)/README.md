@@ -14,7 +14,7 @@ Sample Superstore dataset
 1.	Executive Overview
 2.	Geographical Performance
 3.	Customer Analysis
-4.	Sales & Profit Dashboard
+4.	Sales & Profit Analysis
 5.	Superstore Sales Dashboard
 
 ## Key Insights
