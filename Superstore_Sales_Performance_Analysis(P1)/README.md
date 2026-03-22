@@ -1,4 +1,4 @@
-# Superstore Sales Analysis (Tableau)
+# Superstore Sales Analysis
 
 ## Objective
 Analyse sales and profit performance  of a retail superstore using Tableau and identify key business insights.
