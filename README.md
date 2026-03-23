@@ -13,4 +13,6 @@ Here I showcase projects that demonstrate my skills in data cleaning, analysis, 
 
 ## Projects
 1. Superstore Sales Analysis (Tableau)
+2. Zomato Sales & Restaurants Analysis
+3. Superstore Analysis 2
 
