@@ -1,4 +1,4 @@
-# data-analytics-portfolio — Shrutee Revankar
+# Data-Analytics-Portfolio — Shrutee Revankar
 
 Welcome to my data analytics portfolio 👋  
 Here I showcase projects that demonstrate my skills in data cleaning, analysis, visualization, and insight generation.
