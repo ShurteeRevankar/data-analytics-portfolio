@@ -1,4 +1,4 @@
-# Hospitality Analysis
+# Atliq Hospitality Revenue & Occupancy Analysis for Business Optimization
 
 ## Objective
 Analyse occupancy rate, revenue trends and cancellations using data visualization.
