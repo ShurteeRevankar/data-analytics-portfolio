@@ -22,4 +22,5 @@ Here I showcase projects that demonstrate my skills in data cleaning, analysis, 
 2. Zomato Sales & Restaurants Analysis
 3. Superstore Analysis (Power BI)
 4. Hospitality Analysis
+5. Manufacturing Analysis (Power BI)
 
